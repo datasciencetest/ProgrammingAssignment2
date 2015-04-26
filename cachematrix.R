@@ -1,4 +1,4 @@
-## Following functions together calculate inverse of a matrix
+## Following two functions together calculate inverse of a matrix
 ## and cache the resulted inverse matrix against input matrix in
 ## a special matrix that can cache its inverse
 ## to aviod the recalculation of matrix inverse repeatedly for the same given input.
